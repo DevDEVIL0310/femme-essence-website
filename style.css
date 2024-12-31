@@ -33,7 +33,7 @@ body {
   }
   nav {
     text-align: center;
-    background-color: #ff99cc;
+    background-color: #d8d5d0;
     padding: 10px;
   }
   
@@ -51,7 +51,7 @@ body {
   .button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #ff99cc;
+    background-color: #d8d5d0;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -59,7 +59,7 @@ body {
   }
   
   .button:hover {
-    background-color: #e68aae;
+    background-color: #d8d5d0;
   }
   
   
